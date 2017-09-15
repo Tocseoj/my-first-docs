@@ -3,20 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Joe's first docs's documentation!
+Welcome to Joe's first documentation!
 ============================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    all-about-me
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
